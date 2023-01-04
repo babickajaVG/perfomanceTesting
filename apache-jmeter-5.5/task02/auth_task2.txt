@@ -1,0 +1,2 @@
+# JMeter generated Authorization file
+http://192.168.0.17/blog/Account/login.aspx	lera_editor	12345			BASIC
